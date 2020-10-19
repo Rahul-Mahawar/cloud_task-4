@@ -1,5 +1,6 @@
 provider "aws" {
   region     = "ap-south-1"
+  profile = "rk_18"
 }
 
 //key-pair
